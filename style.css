@@ -1,0 +1,37 @@
+h1{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+.botton{
+    display: inline-block;
+    margin: 5px;
+    border: solid ;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+}
+#blue{
+    background-color: blue;
+    text-align: center;  
+    color: white;
+    
+}
+#brown{
+    background-color: brown;
+    text-align: center; 
+    color: white; 
+    
+}
+#white{
+    text-align: center;     
+}
+#red{
+    background-color: red;
+    text-align: center;  
+    color: white;
+    
+}
+.parent{
+    justify-items: center;
+}
